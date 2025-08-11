@@ -131,7 +131,7 @@ By addressing these issues, we can work toward AI systems that promote **equity,
 
 For questions or further information, please contact the project team.  
 **Email**: [mavundlatm@icloud.com]  
-**GitHub**: [[Your Repository Link](https://github.com/Thabo-Mavundla)]  
+**GitHub**: [[Thabo Mavundla](https://github.com/Thabo-Mavundla)]  
 
 ---
 
